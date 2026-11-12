@@ -13,11 +13,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Autumn-27/norma/agentcore"
-	"github.com/Autumn-27/norma/harness"
-	"github.com/Autumn-27/norma/llm"
-	"github.com/Autumn-27/norma/memory"
-	"github.com/Autumn-27/norma/permission"
+	"github.com/0xEaS1/norma/agentcore"
+	"github.com/0xEaS1/norma/harness"
+	"github.com/0xEaS1/norma/llm"
+	"github.com/0xEaS1/norma/memory"
+	"github.com/0xEaS1/norma/permission"
 )
 
 func main() {

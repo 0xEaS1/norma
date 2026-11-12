@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Autumn-27/norma/llm"
-	"github.com/Autumn-27/norma/noa"
+	"github.com/0xEaS1/norma/llm"
+	"github.com/0xEaS1/norma/noa"
 )
 
 // Options configures one noa-managed session.

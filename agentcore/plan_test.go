@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Autumn-27/norma/harness"
-	"github.com/Autumn-27/norma/llm"
-	"github.com/Autumn-27/norma/permission"
-	"github.com/Autumn-27/norma/tool"
+	"github.com/0xEaS1/norma/harness"
+	"github.com/0xEaS1/norma/llm"
+	"github.com/0xEaS1/norma/permission"
+	"github.com/0xEaS1/norma/tool"
 )
 
 // TestPlanModeGatesThenAllowsWrites proves the plan-mode lifecycle: a write is
